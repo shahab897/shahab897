@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**shahab897/shahab897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![ContactMe](https://img.shields.io/badge/ContactMe-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahab897@gmail.com)](mailto:shahab897@gmail.com)
 
-Here are some ideas to get you started:
+I'm a **Full Stack Developer** currently working as a **Team Lead** at **Phebsoft Pvt Ltd**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a little about me:
+
+- 💻 Full-stack developer with expertise in both front-end and back-end technologies.
+- 🚀 Team lead at Phebsoft Pvt Ltd, leading a dynamic team to deliver innovative solutions.
+- 🌟 Passionate about mentoring and guiding junior developers in their career growth.
+- 📚 Committed to continuous learning, staying at the forefront of industry trends.
+- 😄 Fun fact: By day, I'm a coding enthusiast, and by night, I'm a Dota 2 and Call of Duty gaming aficionado, always up for a match or mission! 🎮🕹️
+
+Feel free to explore my repositories and reach out for collaboration. Let's build great things together! 🌟
