@@ -12,6 +12,7 @@ Here's a little about me:
 - 📚 Committed to continuous learning, staying at the forefront of industry trends.
 - 😄 Fun fact: By day, I'm a coding enthusiast, and by night, I'm a Dota 2 and Call of Duty gaming aficionado, always up for a match or mission! 🎮🕹️
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats-sandy.vercel.app?user=shahab897&theme=gruvbox) -->
+![GitHub Streak](https://github-readme-streak-stats-sandy.vercel.app?user=shahab897)
+<!-- &theme=gruvbox) -->
 
 Feel free to explore my repositories and reach out for collaboration. Let's build great things together! 🌟
